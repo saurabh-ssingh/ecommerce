@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+}
+
+body{
+    margin: 0;
+}
+
+code{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a.active-class{
+    color:blue;
+    border-bottom: 1px solid red;
+}
+
+a{
+    color: #61dafb;
+}
+
+.menu-style{
+    width: 100%;
+    line-height: 60px;
+    background-color: #20232a;
+    display:flex;
+    justify-content: space-around;
+
+}
+
+.item-list{
+    width: 100%;
+    line-height: 60px;
+    background-color:red;
+    display:flex;
+    justify-content: space-around;
+}
+
